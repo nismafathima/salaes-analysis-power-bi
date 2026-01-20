@@ -53,8 +53,3 @@ SalesBudgetAnalysis/
 - Add **forecasting visuals** using Power BI AI features.  
 - Integrate with **live SQL databases** for real-time updates.  
 - Build **mobile-friendly dashboards** for executives.  
-
----
-
-
-Would you like me to also draft a **sample screenshot section with captions** (e.g., “Overview Page”, “Variance Analysis Page”) so you can copy-paste it into your README?
