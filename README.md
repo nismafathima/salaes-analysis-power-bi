@@ -5,7 +5,8 @@
 
 A **Power BI project** that provides interactive dashboards and insights into **sales performance vs. budget targets**. The goal is to help businesses track revenue, identify variances, and make data-driven decisions.
 
----
+---![Uploading Screenshot 2026-01-20 231338.png…]()
+
 
 ## ✨ Features
 - 📈 **Sales vs. Budget Comparison** – Track actual sales against planned budgets.  
